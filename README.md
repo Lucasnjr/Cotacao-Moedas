@@ -8,7 +8,7 @@ Um site simples feito com **HTML**, **CSS** e **JavaScript** que exibe a **cota�
 
 ## 🔗 Acesse o site
 
-👉 [Clique aqui para ver online](https://seu-link-aqui.com)
+👉 [Clique aqui para ver online]([https://lucasnjr.github.io/Cotacao-Moedas/])
 
 ---
 
@@ -18,11 +18,9 @@ Um site simples feito com **HTML**, **CSS** e **JavaScript** que exibe a **cota�
 
 ---
 
-## 🔍 Funcionalidades
+## 🔍 Funcionalidade
 
 - 💶 Consulta em tempo real das moedas: **Euro**, **Dólar** e **Bitcoin**.
-- ⚡ Interface simples, leve e responsiva.
-- 🔄 Atualização automática das cotações ao carregar a página.
 
 ---
 
@@ -32,19 +30,3 @@ Um site simples feito com **HTML**, **CSS** e **JavaScript** que exibe a **cota�
 - **CSS3**
 - **JavaScript (Vanilla JS)**
 - [**AwesomeAPI - API de Moedas**](https://docs.awesomeapi.com.br/api-de-moedas)
-
----
-
-## 🚀 Melhorias Futuras (Ideias)
-
-- Adicionar gráfico com histórico das cotações.
-- Permitir escolha de outras moedas.
-- Atualização automática em tempo real (com intervalos).
-- Tema claro/escuro.
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT.  
-Feito com 💻 por [Seu Nome ou GitHub](https://github.com/seuusuario)
